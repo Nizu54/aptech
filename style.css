@@ -1,0 +1,32 @@
+.aa{
+    background-color: aqua;
+    margin: -80;
+    margin-top: -10px;
+    padding: 10px;
+    width: 100%;
+}
+.bb{
+    font-size: 50px;
+    padding: 10px;
+}
+.cc{
+    float: right;
+    word-spacing: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+.dd{
+    margin: -15px;
+    margin-top: -5px;
+    font-size: 30px;
+    background-image: url(mus.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30ch;
+    text-align: center;
+    color: aqua;
+}
+.ee{
+    text-align: center center;
+    font-size: 20px;
+}
